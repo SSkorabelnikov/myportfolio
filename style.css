@@ -78,7 +78,7 @@ body {
   text-align: center;
 }
 
-.user-image {
+.user-image-keks {
   margin: 0 0 32px;
   text-align: center;
 }
@@ -112,6 +112,12 @@ body {
 
 .skill-css {
   background-image: url("img/icon-css.svg");
+}
+
+.skill-js {
+  width: 22px;
+  height: 24px;
+  background-image: url("img/icon-js.svg");
 }
 
 .level {
@@ -156,6 +162,7 @@ body {
 
 .button {
   padding: 6px 20px;
+  margin-bottom: 12px;
   display: inline-block;
   vertical-align: baseline;
   text-decoration: none;
